@@ -1,4 +1,4 @@
-# pedagiosSP
+# pedagioSP
 Agente de IA para consulta de pedágios do Estado de São Paulo
 
 O arquivo é um agente de IA completo para pesquisa automática.
